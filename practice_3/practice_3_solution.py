@@ -18,7 +18,7 @@ print(f"The first two numbers in your list are: {usr_nums[:2]}")
 print(f"The highest number you entered is:", max(usr_nums))
 
 lowest_num = min(usr_nums)
-print(f"The lowest number is: {lowest_num}")
+print("The lowest number is: " + str(lowest_num))  # I just am showing a different way to print the number.
 usr_nums.remove(lowest_num)
 print(f"The list after the lowest number is removed is: {usr_nums}")
 
