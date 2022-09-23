@@ -34,3 +34,5 @@ Please review the example output below:
 
 ![Practice 3 Program Output Special Case](https://github.com/zpotts-cnu/cpsc_140_tutoring/blob/33b7be78fe79579a6875bfc2ed3de8b99931276f/output_3.png)
 > When the user **does** enter the magic number.
+
+> Again, see practice_3_solution.py for the solution.
